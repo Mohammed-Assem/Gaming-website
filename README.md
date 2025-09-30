@@ -1,2 +1,2 @@
 ## Gaming website
-A gaming website with a strong design and responsive for all device sizes, and a website that organizes the matches and the news. It is a frontend website with strong UI/UX
+I developed the frontend of a gaming website with a bold and modern design that is fully responsive across all device sizes. The focus was on creating a smooth and engaging UI/UX, with clear layouts and interactive elements. The site organizes matches (schedules, results, and highlights) and includes a news section for the latest gaming updates. Since this is a frontend-only project, the content and features are presented through well-structured and styled components without backend integration.
